@@ -120,18 +120,13 @@ p {
 
 @media (max-width: 375px) {
 	.bg-top {
-		position: absolute;
-		top: -70%;
-		left: -210%;
-		overflow: hidden;
+		top: -10%;
+		left: -130%;
 	}
 
 	.bg-bottom {
-		position: absolute;
-		bottom: -70%;
-		right: -210%;
-		overflow: hidden;
-		scrollbar-width: none;
+		bottom: -10%;
+		right: -130%;
 	}
 
 	/* prevents scroll bar to appear on mobile devices */
