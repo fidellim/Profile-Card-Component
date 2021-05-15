@@ -32,14 +32,16 @@ body {
 
 .bg-top {
 	position: absolute;
-	top: -50%;
-	left: 0%;
+	transform: translate(-25%, -65%);
+	top: 0;
+	left: 0;
 }
 
 .bg-bottom {
 	position: absolute;
-	bottom: -50%;
-	right: 0%;
+	transform: translate(25%, 65%);
+	bottom: 0;
+	right: 0;
 }
 
 .profile-card-container {
